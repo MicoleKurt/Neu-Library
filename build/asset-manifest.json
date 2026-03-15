@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ca176445.js",
+    "static/media/neu-library-sched.jpg": "/static/media/neu-library-sched.19fbe737caadca2403ff.jpg",
+    "static/media/neu-library-logo.png": "/static/media/neu-library-logo.2679b91dc28e1dc5f334.png",
+    "index.html": "/index.html",
+    "main.ca176445.js.map": "/static/js/main.ca176445.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ca176445.js"
+  ]
+}
